@@ -458,3 +458,7 @@ p {
 .footer__bar {
   text-align: center;
 }
+
+footer div {
+  text-align: center;
+}
